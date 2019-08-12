@@ -1,0 +1,569 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40.300mm" height="128.400mm" version="1.1"
+     viewBox="0 0 40.300 128.400"
+     xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:fpd="http://www.schaeffer-ag.de">
+  <desc>Created with the Front Panel Designer by the export of the file 'Eurorack8ChannelAttenuatorFaceplate.fpd'.</desc>
+  <defs>
+    <pattern id="revside-fill" x="1" y="1" width="1.284" height="1.284" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1.284" y2="1.284" style="stroke-width:0.128; stroke:black; stroke-dasharray:none;" />
+      <line x1="0" y1="1.284" x2="1.284" y2="0" style="stroke-width:0.128; stroke:black; stroke-dasharray:none;" />
+    </pattern>
+    <pattern id="revside-fill-silver" x="1" y="1" width="1.284" height="1.284" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1.284" y2="1.284" style="stroke-width:0.128; stroke:#e0e0e0; stroke-dasharray:none;" />
+      <line x1="0" y1="1.284" x2="1.284" y2="0" style="stroke-width:0.128; stroke:#e0e0e0; stroke-dasharray:none;" />
+    </pattern>
+  </defs>
+<g transform="scale(1,-1) translate( -0.000, -128.400)" 
+   fill-rule="evenodd"
+   style="stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0;">
+<path d="
+M40.300 128.400
+L40.300 0.000
+L0.000 0.000
+L0.000 128.400
+L40.300 128.400
+" 
+fill="#c0c0c0" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" />
+<path d="
+M14.293 3.634
+A0.911,0.911 0 0,1 16.115,3.634
+L16.115 4.489
+A0.911,0.911 0 0,1 14.293,4.489
+L14.293 3.634
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M18.365 4.973
+A0.835,0.835 0 0,1 16.799,4.546
+L16.799 3.577
+A0.856,0.856 0 0,1 18.450,3.264
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M19.134 5.342
+L20.842 5.342
+L19.988 5.342
+L19.988 2.779
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M21.526 4.061
+L22.950 4.061
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M23.234 5.342
+L21.526 5.342
+L21.526 2.779
+L23.234 2.779
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M23.918 2.779
+L23.918 5.342
+L25.626 2.779
+L25.626 5.342
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M26.310 5.342
+L26.310 3.576
+A0.854,0.854 0 0,1 28.018,3.576
+L28.018 5.342
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M28.987 3.491
+L30.410 3.491
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M28.702 2.779
+L29.698 5.342
+L30.695 2.779
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M31.378 5.342
+L33.086 5.342
+L32.232 5.342
+L32.232 2.779
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M33.770 3.633
+A0.911,0.911 0 0,1 35.592,3.633
+L35.592 4.488
+A0.911,0.911 0 0,1 33.770,4.488
+L33.770 3.633
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M36.276 2.779
+L36.276 5.342
+L37.215 5.342
+A0.641,0.641 0 0,0 37.215,4.061
+L36.276 4.061
+L37.272 4.061
+L37.842 2.779
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M9.873 104.299
+L10.442 104.869
+L10.442 102.306
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M29.298 104.617
+L29.469 104.759
+A0.707,0.707 0 0,0 30.466,103.762
+L29.270 102.310
+L30.694 102.310
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M9.448 77.505
+A0.748,0.748 0 0,0 10.131,77.961
+A0.669,0.669 0 0,0 10.131,76.623
+A0.669,0.669 0 0,0 10.131,75.284
+A0.792,0.792 0 0,0 9.448,75.683
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M30.083 77.903
+L29.229 75.767
+L30.653 75.767
+L30.368 75.767
+L30.368 76.194
+L30.368 75.340
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M10.716 50.926
+L9.434 50.926
+L9.434 49.730
+A0.975,0.975 0 0,0 10.118,49.929
+A0.824,0.824 0 0,0 10.630,48.534
+A0.769,0.769 0 0,0 9.406,48.705
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M29.310 49.186
+A0.740,0.740 0 0,0 30.791,49.186
+L30.791 49.043
+A0.740,0.740 0 0,0 29.310,49.043
+L29.310 50.154
+A0.789,0.789 0 0,0 30.648,50.752
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M9.396 23.761
+L9.396 24.188
+L10.820 24.188
+L9.681 21.625
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M29.903 23.054
+A0.740,0.740 0 0,0 29.903,21.573
+A0.740,0.740 0 0,0 29.903,23.054
+A0.598,0.598 0 0,1 29.903,24.250
+A0.598,0.598 0 0,1 29.903,23.054
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.400mm" fpd:visible="front" fpd:print_element="0" fpd:engraving_ral_9005="1" />
+<path d="
+M6.410 112.010
+A3.750,3.750 0 1,0 13.910,112.010
+A3.750,3.750 0 1,0 6.410,112.010
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M26.220 112.010
+A3.750,3.750 0 1,0 33.720,112.010
+A3.750,3.750 0 1,0 26.220,112.010
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M6.410 85.090
+A3.750,3.750 0 1,0 13.910,85.090
+A3.750,3.750 0 1,0 6.410,85.090
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M26.220 85.090
+A3.750,3.750 0 1,0 33.720,85.090
+A3.750,3.750 0 1,0 26.220,85.090
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M6.410 58.160
+A3.750,3.750 0 1,0 13.910,58.160
+A3.750,3.750 0 1,0 6.410,58.160
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M26.220 58.160
+A3.750,3.750 0 1,0 33.720,58.160
+A3.750,3.750 0 1,0 26.220,58.160
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M6.410 31.240
+A3.750,3.750 0 1,0 13.910,31.240
+A3.750,3.750 0 1,0 6.410,31.240
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M26.220 31.240
+A3.750,3.750 0 1,0 33.720,31.240
+A3.750,3.750 0 1,0 26.220,31.240
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M1.850 17.140
+A3.100,3.100 0 1,0 8.050,17.140
+A3.100,3.100 0 1,0 1.850,17.140
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M12.260 17.140
+A3.100,3.100 0 1,0 18.460,17.140
+A3.100,3.100 0 1,0 12.260,17.140
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M21.660 17.140
+A3.100,3.100 0 1,0 27.860,17.140
+A3.100,3.100 0 1,0 21.660,17.140
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M32.070 17.140
+A3.100,3.100 0 1,0 38.270,17.140
+A3.100,3.100 0 1,0 32.070,17.140
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M1.850 44.060
+A3.100,3.100 0 1,0 8.050,44.060
+A3.100,3.100 0 1,0 1.850,44.060
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M12.260 44.060
+A3.100,3.100 0 1,0 18.460,44.060
+A3.100,3.100 0 1,0 12.260,44.060
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M21.660 44.060
+A3.100,3.100 0 1,0 27.860,44.060
+A3.100,3.100 0 1,0 21.660,44.060
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M32.070 44.060
+A3.100,3.100 0 1,0 38.270,44.060
+A3.100,3.100 0 1,0 32.070,44.060
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M1.850 70.990
+A3.100,3.100 0 1,0 8.050,70.990
+A3.100,3.100 0 1,0 1.850,70.990
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M12.260 70.990
+A3.100,3.100 0 1,0 18.460,70.990
+A3.100,3.100 0 1,0 12.260,70.990
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M21.660 70.990
+A3.100,3.100 0 1,0 27.860,70.990
+A3.100,3.100 0 1,0 21.660,70.990
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M32.070 70.990
+A3.100,3.100 0 1,0 38.270,70.990
+A3.100,3.100 0 1,0 32.070,70.990
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M1.850 97.910
+A3.100,3.100 0 1,0 8.050,97.910
+A3.100,3.100 0 1,0 1.850,97.910
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M12.260 97.910
+A3.100,3.100 0 1,0 18.460,97.910
+A3.100,3.100 0 1,0 12.260,97.910
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M21.660 97.910
+A3.100,3.100 0 1,0 27.860,97.910
+A3.100,3.100 0 1,0 21.660,97.910
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M32.070 97.910
+A3.100,3.100 0 1,0 38.270,97.910
+A3.100,3.100 0 1,0 32.070,97.910
+" 
+fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M40.300 128.400
+L40.300 0.000
+L0.000 0.000
+L0.000 128.400
+L40.300 128.400
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" fpd:visible="front back" />
+<path d="
+M-1.007 0.000
+L1.007 0.000
+M0.000 -1.007
+L0.000 1.007
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M9.153 112.010
+L11.167 112.010
+M10.160 111.003
+L10.160 113.017
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.963 112.010
+L30.977 112.010
+M29.970 111.003
+L29.970 113.017
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M9.153 85.090
+L11.167 85.090
+M10.160 84.083
+L10.160 86.097
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.963 85.090
+L30.977 85.090
+M29.970 84.083
+L29.970 86.097
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M9.153 58.160
+L11.167 58.160
+M10.160 57.153
+L10.160 59.167
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.963 58.160
+L30.977 58.160
+M29.970 57.153
+L29.970 59.167
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M9.153 31.240
+L11.167 31.240
+M10.160 30.233
+L10.160 32.247
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.963 31.240
+L30.977 31.240
+M29.970 30.233
+L29.970 32.247
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M3.943 17.140
+L5.957 17.140
+M4.950 16.133
+L4.950 18.147
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M14.353 17.140
+L16.367 17.140
+M15.360 16.133
+L15.360 18.147
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M23.753 17.140
+L25.767 17.140
+M24.760 16.133
+L24.760 18.147
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M34.163 17.140
+L36.177 17.140
+M35.170 16.133
+L35.170 18.147
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M3.943 44.060
+L5.957 44.060
+M4.950 43.053
+L4.950 45.067
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M14.353 44.060
+L16.367 44.060
+M15.360 43.053
+L15.360 45.067
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M23.753 44.060
+L25.767 44.060
+M24.760 43.053
+L24.760 45.067
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M34.163 44.060
+L36.177 44.060
+M35.170 43.053
+L35.170 45.067
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M3.943 70.990
+L5.957 70.990
+M4.950 69.983
+L4.950 71.997
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M14.353 70.990
+L16.367 70.990
+M15.360 69.983
+L15.360 71.997
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M23.753 70.990
+L25.767 70.990
+M24.760 69.983
+L24.760 71.997
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M34.163 70.990
+L36.177 70.990
+M35.170 69.983
+L35.170 71.997
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M3.943 97.910
+L5.957 97.910
+M4.950 96.903
+L4.950 98.917
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M14.353 97.910
+L16.367 97.910
+M15.360 96.903
+L15.360 98.917
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M23.753 97.910
+L25.767 97.910
+M24.760 96.903
+L24.760 98.917
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M34.163 97.910
+L36.177 97.910
+M35.170 96.903
+L35.170 98.917
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M13.284 2.580
+L15.298 2.580
+M14.291 1.573
+L14.291 3.587
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M8.865 102.106
+L10.879 102.106
+M9.872 101.099
+L9.872 103.113
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.262 102.110
+L30.276 102.110
+M29.269 101.103
+L29.269 103.117
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M8.440 75.141
+L10.454 75.141
+M9.447 74.134
+L9.447 76.148
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.221 75.140
+L30.235 75.140
+M29.228 74.133
+L29.228 76.147
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M8.398 48.163
+L10.412 48.163
+M9.405 47.156
+L9.405 49.170
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.301 48.160
+L30.315 48.160
+M29.308 47.153
+L29.308 49.167
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M8.388 21.425
+L10.402 21.425
+M9.395 20.418
+L9.395 22.432
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+<path d="
+M28.183 21.430
+L30.197 21.430
+M29.190 20.423
+L29.190 22.437
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" />
+</g>
+</svg>
